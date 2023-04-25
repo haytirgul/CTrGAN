@@ -1,0 +1,22 @@
+CENTROIDS:
+  RGB_DATA_ROOT: '/home/haiho/Dropbox/Thesis_code/retiming/datasets/security_cam/cropped_data_set/rgb/0000/'
+  IUV_DATA_ROOT: '/home/haiho/Dropbox/Thesis_code/retiming/datasets/security_cam/cropped_data_set/iuv/0000/'
+  IMAGES:
+    - 00/001/000000.png
+    - 00/001/000001.png
+    - 00/001/000003.png
+    - 00/001/000005.png
+    - 00/001/000006.png
+    - 00/001/000008.png
+    - 00/001/000009.png
+    - 00/001/000011.png
+    - 00/001/000012.png
+    - 00/001/000013.png
+    - 00/001/000015.png
+    - 00/001/000016.png
+    - 00/001/000018.png
+    - 00/001/000019.png
+    - 00/001/000021.png
+    - 00/001/000022.png
+    - 00/001/000023.png
+    - 00/001/000025.png

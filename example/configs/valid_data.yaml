@@ -1,0 +1,11 @@
+DATASET:
+  OBJ1:
+    NAME: '0000'
+    RGB_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/Crop256/iuv//0000/']
+    USED_DIRS: [ [ '00','45','90' ],[ '003','004' ] ]
+    CENTROIDS_FILE: '/home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/configs/centroids1.yaml'
+  OBJ2:
+    NAME: '0007'
+    RGB_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/Crop256/iuv//0007/']
+    USED_DIRS: [ [ '00','45','90' ],[ '003','004' ] ]
+    CENTROIDS_FILE: '/home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/configs/centroids2.yaml'

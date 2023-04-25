@@ -1,0 +1,26 @@
+CUDA_VISIBLE_DEVICES=1,2 python /home/haiho/Dropbox/Thesis_code/CTrGAN-main/train.py \
+--name hay_explore_1000_epochs \
+--datafile /home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/configs/train_data.yaml \
+--checkpoints_dir /home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/ \
+--model CTrGAN \
+--ngf 16 \
+--dataset_mode unaligned_sequence \
+--no_dropout \
+--no_flip \
+--loadSize 272 \
+--fineSize 256 \
+--iuv_mode img \
+--input_nc 7 \
+--output_nc 7 \
+--use_perceptual_loss \
+--pool_size 0 \
+--niter 250 \
+--niter_decay 750 \
+--save_epoch_freq 20 \
+--continue_train \
+--epoch_count 0 \
+--use_sa \
+--use_qsa \
+--seq_len 3 \
+--nThreads 0 \
+--gpu 0 

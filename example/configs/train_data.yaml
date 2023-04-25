@@ -1,0 +1,14 @@
+DATASET:
+  OBJ1:
+    NAME: '0007'
+    RGB_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/retiming/datasets/casia_A/cropped_data_set/rgb/0000/']
+    IUV_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/retiming/datasets/casia_A/cropped_data_set/iuv/0000/']
+    USED_DIRS: [ [ '00'],[ '001'] ]
+    CENTROIDS_FILE: '/home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/configs/centroids1.yaml'
+  OBJ2:
+    NAME: '0000'
+    RGB_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/retiming/datasets/security_cam/cropped_data_set/rgb/0000/']
+    IUV_DATA_ROOT: ['/home/haiho/Dropbox/Thesis_code/retiming/datasets/security_cam/cropped_data_set/iuv/0000/']
+    USED_DIRS: [ [ '00'],[ '001'] ]
+    CENTROIDS_FILE: '/home/haiho/Dropbox/Thesis_code/CTrGAN-main/example/configs/centroids2.yaml'
+

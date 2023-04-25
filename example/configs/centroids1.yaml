@@ -1,0 +1,23 @@
+CENTROIDS:
+  RGB_DATA_ROOT: '/home/haiho/Dropbox/Thesis_code/retiming/datasets/casia_A/cropped_data_set/rgb/0000/'
+  IUV_DATA_ROOT: '/home/haiho/Dropbox/Thesis_code/retiming/datasets/casia_A/cropped_data_set/iuv/0000/'
+
+  IMAGES:
+  - 00/001/000000.png
+  - 00/001/000004.png
+  - 00/001/000008.png
+  - 00/001/000012.png
+  - 00/001/000016.png
+  - 00/001/000020.png
+  - 00/001/000024.png
+  - 00/001/000028.png
+  - 00/001/000032.png
+  - 00/001/000036.png
+  - 00/001/000040.png
+  - 00/001/000044.png
+  - 00/001/000048.png
+  - 00/001/000052.png
+  - 00/001/000056.png
+  - 00/001/000060.png
+  - 00/001/000064.png
+  - 00/001/000068.png
